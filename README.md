@@ -1,7 +1,7 @@
-==================================
-|     HARDWARE PROBLEM SOLVER    |
-|    by Matthias Schneglberger   |
-==================================
+
+HARDWARE PROBLEM SOLVER
+by Matthias Schneglberger
+
 
 To Use:
 
